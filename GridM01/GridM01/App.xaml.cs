@@ -10,7 +10,7 @@ namespace GridM01
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new GridM02());
+            MainPage = new NavigationPage(new Calculadora());
         }
 
         protected override void OnStart()
